@@ -3,7 +3,7 @@ body{
     font-style: normal;
 }
 .main{
-    width: 70%;
+    width: 60%;
     margin: 20px auto;
     border: 1px solid blue;
     padding: 20px;
@@ -12,17 +12,17 @@ body{
 
 h2{
     margin-top: 0;
-    color: chocolate;
+    color: cornflowerblue;
 }
 
 .encabezado{
-    background-color: crimson;
-    color: white;
+    background-color: darkseagreen;
+    color: black;
     padding: 20px;
     margin-bottom: 20px;
     font-size: 30px;
     box-shadow: 0px 5px 10px black;
 }
 h3{
-    color: crimson;
+    color: darkgoldenrod;
 }
