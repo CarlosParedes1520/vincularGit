@@ -3,21 +3,21 @@ body{
     font-style: normal;
 }
 .main{
-    width: 70%;
+    width: 90%;
     margin: 20px auto;
     border: 1px solid blue;
     padding: 20px;
-    background-color: brown;
+    background-color: cyan;
 }
 
 h2{
     margin-top: 0;
-    color: chocolate;
+    color: darkblue;
 }
 
 .encabezado{
-    background-color: crimson;
-    color: white;
+    background-color: darkgray;
+    color: black;
     padding: 20px;
     margin-bottom: 20px;
     font-size: 30px;
