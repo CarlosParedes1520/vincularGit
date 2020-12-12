@@ -7,7 +7,7 @@ body{
     margin: 20px auto;
     border: 1px solid blue;
     padding: 20px;
-    background-color: brown;
+    background-color: cyan;
 }
 
 h2{
@@ -15,8 +15,10 @@ h2{
     color: cornflowerblue;
 }
 
+
+
 .encabezado{
-    background-color: darkseagreen;
+    background-color: darkgray;
     color: black;
     padding: 20px;
     margin-bottom: 20px;
