@@ -24,7 +24,35 @@ h2{
     margin-bottom: 20px;
     font-size: 30px;
     box-shadow: 0px 5px 10px black;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+figure{
+    width: 120px;
+    height: 70px;
+    margin: 0;
+}
+
+figure img {
+    width: inherit;
+    height: inherit;
+}
+
+nav ul{
+    margin: 0;
+    list-style: none;
+    display: flex;
+}
+nav ul li {
+    padding: 0px 0px 0px 10px;
+
+}
+nav ul li a{
+    text-decoration: none;
+    color: black;
 }
 h3{
-    color: darkgoldenrod;
+    color: crimson;
 }
