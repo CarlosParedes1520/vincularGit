@@ -3,4 +3,6 @@ hola soy carlos :3
 hola mundo :D me encanta aprender JS reack php bd
 soy noe y voy a ayudarte en tu proyecto 
 
-holo soy edu y hoy comienso a vincular en ssh como opensourse
+hola soy edu y hoy comienso a vincular en ssh como opensourse
+
+master 1
